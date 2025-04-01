@@ -1,14 +1,14 @@
 
 
 # 👋 Hi there, I'm Shree!  
-### **Data Analyst | Data Science | SQL | Python | Power BI | Tableau**  
+### **Data Analyst | Data Science | SQL | Python | Power BI | Tableau | Looker Studio**  
 
 🔍 I thrive on uncovering hidden insights in data—every dataset is a new puzzle waiting to be solved! With a passion for **data analysis, visualization, and storytelling**, I transform raw numbers into meaningful insights that drive decision-making.  
 
 ### 🛠 **Tech Stack & Skills**  
 - **Languages:** Python, SQL  
 - **Databases:** PostgreSQL  
-- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Looker Studio 
 - **Data Wrangling:** Pandas, NumPy, Excel  
 - **Other Tools:** Jupyter Notebook, Git, VS Code  
 
