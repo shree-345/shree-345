@@ -12,6 +12,15 @@
 - **Data Wrangling:** Pandas, NumPy, Excel  
 - **Other Tools:** Jupyter Notebook, Git, VS Code  
 
+<p align="left">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" />  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" />  
+</p>  
+
 ### 📊 **What I Do**  
 🚀 Analyze and clean large datasets to extract actionable insights  
 📈 Build interactive dashboards & reports that simplify complex data  
@@ -32,4 +41,3 @@
 
 ⚡ **Fun Fact:** **90% of the world’s data was generated in just the last two years—plenty of mysteries for data analysts to solve!** 📊🚀  
 
- 
