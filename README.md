@@ -39,5 +39,5 @@
 📧 Email: sridevi.daksh@gmail.com  
 💼 LinkedIn: [Sridevi Dakshinamoorthy](https://www.linkedin.com/in/sridevi-dakshinamoorthy-47432534a/)  
 
-⚡ **Fun Fact:** **90% of the world’s data was generated in just the last two years—plenty of mysteries for data analysts to solve!** 📊🚀  
+⚡ **Fun Fact:** **Did you know that approximately 2.5 quintillion bytes of data are generated every day? To put this in perspective, about 90% of the world’s data was created in just the last two years!—plenty of mysteries for data analysts to solve!** 📊🚀  
 
